@@ -68,11 +68,9 @@ Make sure the following are installed:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/reflect.git
+git clone https://github.com/sanya-anand/reflect.git
 cd reflect
 ```
-
-Replace `<your-username>` with your GitHub username.
 
 ---
 
